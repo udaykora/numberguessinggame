@@ -1,0 +1,94 @@
+.two {
+  color: cornflowerblue;
+  display: inline-block;
+  margin-left: 500px;
+  font-family: "Danfo", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "ELSH" 0;
+}
+.guess {
+  display: block;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+  margin-left: 450px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  background-color: brown;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+}
+.num {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-left: 500px;
+  text-align: center;
+  background-color: blanchedalmond;
+  margin-bottom: 0%;
+  border: none;
+  border-radius: 30px;
+}
+.check {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-left: 600px;
+  margin-top: 40px;
+  background-color: darkcyan;
+  font-size: larger;
+  border: none;
+  cursor: pointer;
+  transition: 2s;
+  border-radius: 40px;
+  font-weight: bolder;
+}
+.check:hover {
+  opacity: 0.5;
+  transition: 2s;
+}
+
+.playagain {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(23, 100, 100);
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+  vertical-align: top;
+  border-radius: 20px;
+  border: none;
+}
+body {
+  background-color: black;
+}
+.four {
+  display: block;
+  align-items: center;
+  align-content: center;
+}
+.matter {
+  color: brown;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 0%;
+  font-size: 30px;
+  font-family: "Tiny5", sans-serif;
+}
+
+.hurray {
+  margin-left: 600px;
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
